@@ -4,8 +4,11 @@
 # https://aka.ms/yaml
 # S test 
 trigger:
-- master
-
+#- master
+  branches:
+       include:
+         - SS2/*
+         - SS-Test/*
 pool:
   vmImage: ubuntu-latest
 
