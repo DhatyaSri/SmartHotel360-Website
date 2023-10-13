@@ -5,7 +5,9 @@
 
 
 trigger:
-- master
+#- master
+- SS2
+- SS-Test
 
 pool:
   vmImage: ubuntu-latest
