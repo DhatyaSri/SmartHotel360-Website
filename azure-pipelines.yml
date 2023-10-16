@@ -6,6 +6,7 @@
 
 trigger:
 - master
+- SS2
 #  branches:
 #       include:
 #         - SS2/*
