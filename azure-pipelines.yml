@@ -5,10 +5,8 @@
 
 
 trigger:
-  branches:
-       include:
-         - SS2
-         - master
+  - SS2
+  - master
                 
 
 pool:
