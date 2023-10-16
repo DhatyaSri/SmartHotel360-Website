@@ -6,11 +6,8 @@
 
 
 trigger:
-#- master
-  branches:
-       include:
-         - SS2/*
-         - SS-Test/*
+ - SS2
+ - master
 
 pool:
   vmImage: ubuntu-latest
