@@ -5,11 +5,11 @@
 
 
 trigger:
-- master
-- SS2
-#  branches:
-#       include:
-#         - SS2/*
+
+  branches:
+       include:
+         - master
+         - SS2/*
          
 
 pool:
