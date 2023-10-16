@@ -5,10 +5,10 @@
 
 
 trigger:
-#- master
-  branches:
-       include:
-         - SS2/*
+- master
+#  branches:
+#       include:
+#         - SS2/*
          
 
 pool:
