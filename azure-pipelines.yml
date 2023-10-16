@@ -4,11 +4,11 @@
 # https://aka.ms/yaml
 
 
-#trigger:
-  #branches:
-      # include:
-        # - master
-         #- SS2
+trigger:
+  branches:
+       include:
+         - master
+         - SS2
          
 
 pool:
