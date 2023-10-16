@@ -7,8 +7,8 @@
 trigger:
   branches:
        include:
-         - master
-         - SS2
+         - master/*
+         - SS2/*
          
 
 pool:
