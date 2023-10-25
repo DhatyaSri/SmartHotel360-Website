@@ -6,8 +6,7 @@
 
 
 trigger:
- - SS2
- - master
+- Master
 
 pool:
   vmImage: ubuntu-latest
